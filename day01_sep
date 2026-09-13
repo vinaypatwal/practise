@@ -1,0 +1,3 @@
+---
+- name: Install nginx on pathnex server 
+
